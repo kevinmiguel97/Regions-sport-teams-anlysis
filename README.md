@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="700" src="https://www.reddit.com/r/MapPorn/comments/9hgfk8/us_counties_by_closest_big_four_sports_team/">
+</p>
+
 # Regions-sport-teams-anlysis
 
 ## Description
