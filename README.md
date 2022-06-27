@@ -1,6 +1,7 @@
 # Regions-sport-teams-anlysis
 
 ## Description
+Follow the analysis in [Notebook](Regions_analysis.ipynb)
 
 In this assignment we will read a file of metropolitan regions and associated sports teams from [assets/wikipedia_data.html](assets/wikipedia_data.html) and answer some questions about each metropolitan region. Each of these regions may have one or more teams from the "Big 4":
 - NFL (football, in [assets/nfl.csv](assets/nfl.csv))
@@ -12,3 +13,4 @@ It is important to keep in mind that all the analysis made is from the perspecti
 
 For each sport we are going to answer the question: **what is the win/loss ratio's correlation with the population of the city it is in?** 
 (Win/Loss ratio refers to the number of wins over the number of wins plus the number of losses)
+
