@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="700" src="https://www.reddit.com/r/MapPorn/comments/9hgfk8/us_counties_by_closest_big_four_sports_team/">
+  <img width="700" src="https://external-preview.redd.it/C9JWweTebLBFRRW-4TusKEQL9cVUlJdnaF2KfyEV6fI.jpg?auto=webp&s=3a30cce369c5f7507b4aa3089a225139f217261b">
 </p>
 
 # Regions-sport-teams-anlysis
